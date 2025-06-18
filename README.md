@@ -48,12 +48,6 @@ The code performs the following steps:
 
 ---
 
-## 🧪 Example Output
-
-```bash
-FRFLFE
-```
-
 ## 📁 Project Structure
 ```
 .
